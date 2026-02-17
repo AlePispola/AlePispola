@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Alessandro!
 
 🎓 Cybersecurity student at Politecnico di Torino  
-🚀 Currently working on **[MyFitGlobe](https://myfitglobe-sigma.vercel.app/)** – a web platform for gyms and fitness professionals  
 🤖 Contributor at:
 - **[ML4NPolito](https://github.com/ML4NPolito)** – Machine Learning for Networking course projects (including [DDoS Classifier](https://github.com/ML4NPolito/ddos_classifier))  
-- **[ServiceMesh08](https://github.com/ServiceMesh08)** – Kubernetes and Service Mesh lab for cloud-native networking and zero-trust environments   
+- **[ServiceMesh08](https://github.com/ServiceMesh08)** – Kubernetes and Service Mesh lab for cloud-native networking and zero-trust environments
+- **[IoC on Telegram](https://github.com/Simolaaaab/IoC_on_Telegram)** - Special Project for the Data Protection and Anonimity course
 
 📫 Reach me at: apispola@gmail.com 
 
